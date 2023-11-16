@@ -1,0 +1,10 @@
+.idea
+.vscode
+__pycache__
+venv
+app/_ARCHIVE
+nose2-junit.xml
+coverage.xml
+.coverage
+.DS_Store
+.python-version

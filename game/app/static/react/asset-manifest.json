@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/static/react/css/main.f2b26753.css",
+    "main.js": "/static/react/js/main.894bf8ec.js",
+    "media/player_winner.png": "/static/react/media/player_winner.ea8843d8e6a0efc1fb31.png",
+    "media/player.png": "/static/react/media/player.03c79b8dbdbb0eb20ea9.png",
+    "media/player_dead.png": "/static/react/media/player_dead.9bfb81389160ac5c11c4.png",
+    "../../templates/index.html": "/static/react/../../templates/index.html",
+    "main.f2b26753.css.map": "/static/react/css/main.f2b26753.css.map",
+    "main.894bf8ec.js.map": "/static/react/js/main.894bf8ec.js.map"
+  },
+  "entrypoints": [
+    "css/main.f2b26753.css",
+    "js/main.894bf8ec.js"
+  ]
+}

@@ -1,0 +1,28 @@
+apiVersion: v1
+kind: ConfigMap
+metadata:
+  name: player-config-file
+  namespace: default
+data:
+  variables.conf: |
+    players=[
+      {
+        "id": "Jon",
+        "service": "twenty-one-jon",
+        "port": 80
+      },
+      {
+        "id": "Nigel",
+        "service": "twenty-one-nigel",
+        "port": 80
+      },
+      {
+        "id": "Luke",
+        "service": "twenty-one-luke",
+        "port": 80
+      },
+      {
+        "id": "Angus",
+        "service": "twenty-one-angus",
+        "port": 80
+      }]
